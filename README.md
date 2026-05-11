@@ -1,36 +1,37 @@
-# Hi there, I'm Marouane Daoudi 👋
+# Bonjour, je suis Marouane Daoudi 👋
 
-[cite_start]I am an Electrical Engineering student currently finishing my Licence 3 at the Université de Lille[cite: 1, 13]. [cite_start]This September 2026, I will be joining Université Évry PARIS-SACLAY for a Master 1 in EEA (Électronique, Énergie Électrique, Automatique). 
+[cite_start]Actuellement en troisième année de Licence d'Ingénierie Électrique à l'Université de Lille [cite: 13][cite_start], j'intégrerai l'Université Évry PARIS-SACLAY en septembre 2026 pour y suivre un Master 1 EEA (Électronique, Énergie Électrique, Automatique). 
 
-[cite_start]I am deeply interested in the intersection of hardware and software, specifically focusing on industrial automation, PLC programming, and embedded systems. 
+[cite_start]Je suis particulièrement intéressé par l'interaction entre le matériel et le logiciel, avec une forte appétence pour l'automatisme industriel, la programmation d'API et les systèmes embarqués.
 
-[cite_start]🎯 **Current Goal:** I am actively seeking a 2-year apprenticeship (alternance) starting in September 2026 to develop my skills as an Automation Engineer. 
-
----
-
-### 🛠️ Technical Skills
-
-* [cite_start]**Automation & Control:** Programmable Logic Controllers (Ladder, SFC), LabVIEW, MATLAB, Simulink[cite: 42].
-* [cite_start]**Embedded Systems & IoT:** Microcontrollers (ESP32), Node-RED, MQTT, VHDL[cite: 43].
-* [cite_start]**Electronics Design:** Circuit simulation and PCB routing using Proteus (ISIS, ARES) and KiCad[cite: 44].
-* [cite_start]**Programming:** C, Python[cite: 45].
+[cite_start]🎯 **Mon objectif actuel :** Je suis à la recherche active d'une **alternance de 2 ans** à partir de septembre 2026 pour développer mes compétences en tant qu'Ingénieur en Automatisme[cite: 2, 11]. [cite_start](Rythme : 3j école / 2j entreprise au S1, puis 2j école / 3j entreprise au S2 [cite: 3]).
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Compétences Techniques
 
-* [cite_start]**[PLC Automation Portfolio](https://github.com/marouane-daoudi/automatisme-lab-projects):** A collection of industrial sequences programmed on Mitsubishi FX PLCs, including traffic control, automated parking, and security alarms[cite: 30, 33, 34]. 
-* [cite_start]**[Digital pH Meter (IoT)](https://github.com/marouane-daoudi/phmetre-numerique):** An ESP32-based sensor system with analog signal conditioning (CA3240)[cite: 35, 38]. [cite_start]This project was presented as an IEEE paper at the NCASEE'24 conference[cite: 39, 40].
-
----
-
-### 💼 Recent Experience
-* [cite_start]**Intern in Electricity and Instrumentation** @ *Henkel Algeria* (July 2024)[cite: 22, 23, 27]. 
-    * [cite_start]Analyzed PLC logic across automated production lines and studied the plant's power distribution for preventive maintenance[cite: 28, 29].
+* [cite_start]**Automatique & Instrumentation :** Programmation d'automates (Ladder, SFC), LabVIEW, MATLAB, Simulink[cite: 42].
+* [cite_start]**Systèmes Embarqués & IoT :** Microcontrôleurs (ESP32), protocoles (MQTT), Node-RED, VHDL[cite: 43].
+* [cite_start]**Conception Électronique & PCB :** Simulation et routage sur Proteus (ISIS, ARES) et KiCad[cite: 44].
+* [cite_start]**Programmation :** C, Python[cite: 45].
 
 ---
 
-### ⚡ Outside the Lab
-When I'm not designing circuits or debugging Ladder logic, you can usually find me training in calisthenics, experimenting with new recipes in the kitchen, or reading a good dystopian novel like *1984*.
+### 🚀 Projets Principaux
 
-[cite_start]📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/daoudi-marouane) | marouane.daoudi@outlook.com [cite: 6, 7]
+* [cite_start]**[Portfolio Automatisme Industriel](https://github.com/marouane-daoudi/automatisme-lab-projects) :** Série de projets développés sur API Mitsubishi FX[cite: 30, 34]. [cite_start]Implémentation de séquences industrielles incluant la gestion de feux de carrefour, un parking automatisé et une alarme anti-intrusion[cite: 33].
+* [cite_start]**[pH-mètre Numérique (IoT)](https://github.com/marouane-daoudi/phmetre-numerique) :** Conception d'un capteur basé sur un ESP32 avec circuit de conditionnement analogique (buffer CA3240)[cite: 38]. [cite_start]Ce projet a fait l'objet d'une publication IEEE lors de la conférence NCASEE'24[cite: 39, 40].
+
+---
+
+### 💼 Expérience Récente
+* [cite_start]**Stagiaire en Électricité et Instrumentation** @ *Henkel Algérie* (Juillet 2024)[cite: 22, 23, 27]. 
+    * [cite_start]Analyse des connexions logiques d'automates programmables (API) sur 3 lignes de production[cite: 28].
+    * [cite_start]Étude du système de distribution électrique central pour l'optimisation de la maintenance préventive[cite: 29].
+
+---
+
+### ⚡ En dehors du labo
+[cite_start]Quand je ne suis pas en train de concevoir des circuits ou de débugger du Ladder, vous me trouverez probablement en train de m'entraîner (musculation / calisthenics) [cite: 50][cite_start], de tester de nouvelles recettes en cuisine (avec une spécialité pour les plats à base de pâtes et de thon) [cite: 50][cite_start], ou plongé dans un roman dystopique comme *1984*[cite: 50].
+
+📫 **Me contacter :** [LinkedIn](https://linkedin.com/in/daoudi-marouane) | [cite_start][marouane.daoudi@outlook.com](mailto:marouane.daoudi@outlook.com) [cite: 6, 7]
