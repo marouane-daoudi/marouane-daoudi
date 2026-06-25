@@ -1,39 +1,113 @@
-# Bonjour, je suis Marouane Daoudi 👋
+# Hi, I'm Marouane Daoudi 👋
 
-Actuellement en troisième année de Licence d'Ingénierie Électrique à l'Université de Lille, j'intégrerai l'Université Évry PARIS-SACLAY en septembre 2026 pour y suivre un Master 1 EEA (Électronique, Énergie Électrique, Automatique). 
+I’m an electronics-oriented engineering student interested in **PCB design, circuit design, embedded systems, and instrumentation**.
 
-Je suis particulièrement intéressé par l'interaction entre le matériel et le logiciel, avec une forte appétence pour l'automatisme industriel, la programmation d'API et les systèmes embarqués.
+I like turning ideas into working hardware: starting from a schematic, simulating the circuit, designing the PCB, generating fabrication files, and documenting the result clearly. My background combines electrical engineering, automation, embedded systems, and practical industrial experience.
 
-🎯 **Mon objectif actuel :** Je suis à la recherche active d'une **alternance de 2 ans** à partir de septembre 2026 pour développer mes compétences en tant qu'Ingénieur en Automatisme. (Rythme : 3j école / 2j entreprise au S1, puis 2j école / 3j entreprise au S2).
-
----
-
-### 🛠️ Compétences Techniques
-
-* **Automatique & Instrumentation :** Programmation d'automates (Ladder, SFC), LabVIEW, MATLAB, Simulink.
-* **Systèmes Embarqués & IoT :** Microcontrôleurs (ESP32), protocoles (MQTT), Node-RED, VHDL.
-* **Conception Électronique & PCB :** Simulation et routage sur Proteus (ISIS, ARES) et KiCad.
-* **Programmation :** C, Python.
+I am currently studying **Nanosciences and Nanotechnology at the University of Lille** and looking for a **3-month internship starting in May 2027** in electronics, PCB design, circuit design, embedded systems, or related fields.
 
 ---
 
-### 🚀 Projets Principaux
+## 🔎 About Me
 
-* **[Portfolio Automatisme Industriel](https://github.com/marouane-daoudi/automatisme-lab-projects) :** Série de projets développés sur API Mitsubishi FX. Implémentation de séquences industrielles incluant la gestion de feux de carrefour, un parking automatisé et une alarme anti-intrusion.
-* **[pH-mètre Numérique (IoT)](https://github.com/marouane-daoudi/phmetre-numerique) :** Conception d'un capteur basé sur un ESP32 avec circuit de conditionnement analogique (buffer CA3240). Ce projet a fait l'objet d'une publication IEEE lors de la conférence NCASEE'24.
-
----
-
-### 💼 Expérience Récente
-
-* **Stagiaire en Électricité et Instrumentation** @ *Henkel Algérie* (Juillet 2024). 
-    * Analyse des connexions logiques d'automates programmables (API) sur 3 lignes de production.
-    * Étude du système de distribution électrique central pour l'optimisation de la maintenance préventive.
+- 🎓 Master 1 Nanosciences and Nanotechnology student at the **University of Lille**
+- ⚡ Background in **Electrical and Electronic Engineering**
+- 🧩 Interested in **circuit design, PCB routing, analog electronics, embedded systems, and instrumentation**
+- 🛠️ Comfortable with practical electronics work: simulation, prototyping, debugging, and documentation
+- 🌍 Based in Villeneuve d’Ascq, France — mobile within France
+- 💬 Languages: English C1, French C1, Arabic native
 
 ---
 
-### ⚡ En dehors du labo
+## 🛠️ Technical Skills
 
-Quand je ne suis pas en train de concevoir des circuits ou de débugger du Ladder, vous me trouverez probablement en train de m'entraîner (musculation / calisthenics), de tester de nouvelles recettes en cuisine, ou plongé dans un roman dystopique comme *1984*.
+### Electronics & PCB Design
+- Circuit design and analysis
+- Analog signal conditioning
+- PCB schematic capture and layout
+- Routing, footprint placement, Gerber generation
+- Tools: **KiCad**, **Proteus ISIS/ARES**
 
-📫 **Me contacter :** [LinkedIn](https://linkedin.com/in/daoudi-marouane) | [marouane.daoudi@outlook.com](mailto:marouane.daoudi@outlook.com)
+### Embedded Systems & IoT
+- Microcontrollers, especially **ESP32**
+- Sensor interfacing
+- MQTT communication
+- Node-RED
+- Basic digital design with **VHDL**
+
+### Automation & Instrumentation
+- PLC programming: **Ladder**, **SFC**
+- Industrial automation logic
+- Instrumentation basics
+- Tools: **LabVIEW**, **MATLAB**, **Simulink**
+
+### Programming
+- **C**
+- **Python**
+
+---
+
+## 💼 Experience
+
+### Electrical and Instrumentation Intern — Henkel Algeria  
+**July 2024**
+
+During my internship at Henkel Algeria, I worked around industrial electrical systems and automation equipment. This experience helped me connect academic knowledge with real industrial constraints, especially in maintenance, instrumentation, and production systems.
+
+Main tasks included:
+
+- Analysis of PLC logic connections on three automated production lines
+- Study of the plant’s central electrical distribution system
+- Support for preventive maintenance improvement through better understanding of electrical infrastructure
+
+---
+
+## 🎓 Education
+
+### Master 1 — Nanosciences and Nanotechnology  
+**University of Lille**  
+2026 – Present
+
+### Licence 3 — Electrical Engineering / EEA  
+**University of Lille**  
+2025 – 2026  
+Grade: **17.06/20**
+
+### Master 1 — Automation  
+**IGEE, ex INELEC**  
+2024 – 2025  
+Validated  
+Grade: **14.53/20**
+
+### Bachelor’s Degree — Electrical and Electronic Engineering  
+**IGEE, ex INELEC**  
+2021 – 2024
+
+---
+
+## 🎯 Current Focus
+
+Right now, I am focusing on strengthening my skills in:
+
+- PCB design and clean layout practices
+- Analog and mixed-signal circuit design
+- Embedded electronics with microcontrollers
+- Circuit simulation and practical testing
+- Technical documentation for electronics projects
+
+I am especially interested in projects where hardware design, measurement, and real-world constraints meet.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/daoudi-marouane](https://linkedin.com/in/daoudi-marouane)
+- GitHub: [github.com/marouane-daoudi](https://github.com/marouane-daoudi)
+- Email: [marouane.daoudi@outlook.com](mailto:marouane.daoudi@outlook.com)
+
+---
+
+## ⚡ Outside the Lab
+
+When I am not working on circuits or debugging a design, I am usually training, running, cooking, or reading dystopian, fantasy, and classic novels.
+
